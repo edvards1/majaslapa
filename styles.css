@@ -1,0 +1,31 @@
+h1,h3 {
+    color: red;
+}
+
+.roza {
+    color: pink;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.rindkopa {
+    color: darkorchid;
+}
+
+.blakus {
+    float: left;
+}
+
+.garums {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
